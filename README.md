@@ -1,4 +1,4 @@
-theStoryOfMankind
+The Story of Mankind
 =================
 
-The Story of Mankind by Hendrik Van Loon
+by Hendrik Van Loon
