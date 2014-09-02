@@ -6,8 +6,8 @@ The Story of Mankind
 [Foreword](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Foreword.md) (1322 words)
 
 1.  [THE SETTING OF THE STAGE](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Chapter_01.md) (1557 words)
-2.  OUR EARLIEST ANCESTORS (715 words)
-3.  PREHISTORIC MAN (816 words)
+2.  [OUR EARLIEST ANCESTORS](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Chapter_02.md) (715 words)
+3.  [PREHISTORIC MAN](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Chapter_03.md) (818 words)
 4.  THE EGYPTIANS INVENT THE ART OF WRITING AND THE RECORD OF HISTORY BEGINS (1447 words)
 5.  THE BEGINNING OF CIVILISATION IN THE VALLEY OF THE NILE (1076 words)
 6.  THE RISE AND FALL OF EGYPT (566 words)
