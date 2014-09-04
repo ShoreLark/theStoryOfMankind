@@ -5,7 +5,7 @@ The Story of Mankind
 
 [Foreword](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Foreword.md) (1322 words)
 
-1.  [THE SETTING OF THE STAGE](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Chapter_01.md) (1557 words)
+1.  [THE SETTING OF THE STAGE](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Chapter_01.md) (1495 words)
 2.  [OUR EARLIEST ANCESTORS](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Chapter_02.md) (715 words)
 3.  [PREHISTORIC MAN](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Chapter_03.md) (818 words)
 4.  [HIEROGLYPHICS](https://github.com/ShoreLark/theStoryOfMankind/blob/master/Content/Chapter_04.md) (1447 words)
